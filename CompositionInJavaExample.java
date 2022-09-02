@@ -1,20 +1,20 @@
 // Compositon Example 
 
 /*
-									   PC
+		           		   PC
 	  ,------------- has - a ----------||---------- has - a ---------,	
-	  |					 			has - a							 |
-      |								   ||							 |
-	Monitor				   			  Case				   		Motherboard
-  --------------			       ----------			      ---------------
-	model					  		 model						   model
-	menufacturer				  menufacturer			   	   menufacturer
-	size						  powerSupply			   	     ramSlots
-    nativeResolution(Resolution)  dimensions    (Dimension)  	 cardSlot
-	drawPixelAt()		 ||		 pressPowerBtn() 	||			   bios
-					   width    			   	   width	   loadProgram()
-					   height				      height
-											       depth
+	  |				 has - a 			 |
+      	  |			  	   ||				 |
+	Monitor				  Case		  	    Motherboard
+  --------------		       ----------	          ---------------
+     model				 model			       model
+  menufacturer		               menufacturer	       	    menufacturer
+     size			       powerSupply	   	      ramSlots
+nativeResolution(Resolution)           dimensions    (Dimension)      cardSlot
+  drawPixelAt()	     ||  	      pressPowerBtn() 	||  	        bios
+		    width    	       		       width	    loadProgram()
+		    height	      	               height
+						       depth
 */
 
 
